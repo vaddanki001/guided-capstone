@@ -1,1 +1,1 @@
-# guided_capstone
+# guided-capstone
